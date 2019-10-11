@@ -10,11 +10,11 @@ In this project I built a ETL pipeline using Python. To complete the project, fa
 
 ## Project Files and Folders
 
-* *SQLrelation.png* - a SQL relationship diagram of the constructed star schema.
-* *data* - folder containing the song and user activity files in json format.
-* *create_tables.py* - drops and creates tables. Run this file to reset the tables.
+* **SQLrelation.png** - a SQL relationship diagram of the constructed star schema.
+* **data** - folder containing the song and user activity files in json format.
+* **create_tables.py** - drops and creates tables. Run this file to reset the tables.
 
-* *etl.ipynb* - reads and processes a single file from song_data and log_data and loads the data into the tables. Contains detailed instructions on the ETL process for each of the tables.
-* *etl.py* - reads and processes files from song_data and log_data and loads them into the tables.
-* *sql_queries.py* - contains all the sql queries, and is imported into the last three files above.
-* *README.md* - provides discussion on the project.
+* **etl.ipynb** - reads and processes a single file from song_data and log_data and loads the data into the tables. Contains detailed instructions on the ETL process for each of the tables.
+* **etl.py** - reads and processes files from song_data and log_data and loads them into the tables.
+* **sql_queries.py** - contains all the sql queries, and is imported into the last three files above.
+* **README.md** - provides discussion on the project.
