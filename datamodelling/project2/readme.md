@@ -6,7 +6,7 @@ Complete an ETL pipeline using Python. Model data by creating tables in Apache C
 Below are the steps taken to complete each component of this project.
 
 ### Modeling your NoSQL database or Apache Cassandra database
-- Design tables to answer the queries outlined in the [project template]   (https://github.com/riched158/UdacityDataEngineering/blob/master/datamodelling/project2/Project_1B_%20Project_Template.ipynb &nbsp
+- Design tables to answer the queries outlined in the [project template](https://github.com/riched158/UdacityDataEngineering/blob/master/datamodelling/project2/Project_1B_%20Project_Template.ipynb) &nbsp;
 - Write Apache Cassandra CREATE KEYSPACE and SET KEYSPACE statements
 - Develop CREATE statement for each of the tables to address each question
 - Load the data with INSERT statement for each of the tables
