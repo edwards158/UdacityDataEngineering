@@ -9,4 +9,4 @@ Model user activity data for a music streaming app called Sparkify. Create a rel
 
 ## Project 2: [Data modeling with Cassandra](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project2)
 
-Model user activity data for a music streaming app called Sparkify. Create a relational database and ETL pipeline designed to optimize queries for understanding what songs users are listening to. In PostgreSQL define Fact and Dimension tables and insert data into the new tables.
+Model user activity data for a music streaming app called Sparkify. Create a noSQL database and ETL pipeline designed to optimize queries for understanding what songs users are listening to. Model your data in Apache Cassandra to allow for specific queries provided by the analytics team at Sparkify.
