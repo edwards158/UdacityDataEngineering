@@ -11,6 +11,6 @@ Model user activity data for a music streaming app called Sparkify. Create a rel
 
 Model user activity data for a music streaming app called Sparkify. Create a noSQL database and ETL pipeline designed to optimize queries for understanding what songs users are listening to. Model your data in Apache Cassandra to allow for specific queries provided by the analytics team at Sparkify.
 
-## Project 3: [Build a Cloud Data Warehouse](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project2)
+## Project 3: [Build a Cloud Data Warehouse](https://github.com/riched158/UdacityDataEngineering/tree/master/datawarehouse/project3)
 
 Building an ETL pipeline that extracts song data data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to.
