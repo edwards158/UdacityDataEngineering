@@ -37,8 +37,8 @@ Here's an image of the completed star schema:
 - Query Editor was used in the AWS Redshift to check the table schemas in the redshift database
 
 ## 2. Build ETL Pipeline
-- **etl.py** was used to load data from S3 to staging tables on Redshift.
-- **etl.py** was used to load data from staging tables to analytics tables on Redshift.
+- [etl.py](https://github.com/riched158/UdacityDataEngineering/blob/master/datawarehouse/project3/etl.py)was used to load data from S3 to staging tables on Redshift.
+- [etl.py](https://github.com/riched158/UdacityDataEngineering/blob/master/datawarehouse/project3/etl.py) was used to load data from staging tables to analytics tables on Redshift.
 - Used analytic queries on the Redshift database to compare results with expected.
 - The redshift cluster was deleted when finished.
 
