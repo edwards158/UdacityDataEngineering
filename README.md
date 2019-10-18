@@ -13,4 +13,4 @@ Model user activity data for a music streaming app called Sparkify. Create a noS
 
 ## Project 3: [Build a Cloud Data Warehouse](https://github.com/riched158/UdacityDataEngineering/tree/master/datawarehouse/project3)
 
-Building an ETL pipeline that extracts song data data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to.
+Building on previous projects, build an ETL pipeline that extracts song data data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to.
