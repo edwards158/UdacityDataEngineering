@@ -17,6 +17,8 @@ Using the song and event datasets, a star schema was created and optimized for q
 1. **songplays** - records in event data associated with song plays i.e. records with page NextSong 
     - *songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent*
     
+    
+    
 **Dimension Tables**
 2. **users** - users in the app
     - *user_id, first_name, last_name, gender, level*
