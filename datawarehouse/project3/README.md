@@ -32,7 +32,7 @@ Here's an image of the completed star schema:
 ![Star Schema](SQLrelation.png)
 
 - SQL CREATE statements for each of these tables were created in in [sql_queries.py](https://github.com/riched158/UdacityDataEngineering/blob/master/datawarehouse/project3/sql_queries.py)
-- **create_tables.py** was completed to connect to the database and create/drop these tables
+- [create_tables.py](https://github.com/riched158/UdacityDataEngineering/blob/master/datawarehouse/project3/create_tables.py) was completed to connect to the database and create/drop these tables
 - A redshift cluster was launched and a IAM role created that has read access to S3.
 - Query Editor was used in the AWS Redshift to check the table schemas in the redshift database
 
