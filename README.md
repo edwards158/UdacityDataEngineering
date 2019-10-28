@@ -20,7 +20,7 @@ Building on previous projects, build an ETL pipeline that extracts song data dat
 
 Concepts: Data Warehouses, Cloud Computing with AWS, Implementing Data Warehouses on AWS 
 
-## Project 3: [Build a Data Lake](https://github.com/riched158/UdacityDataEngineering/tree/master/datalakes/project4)
+## Project 4: [Build a Data Lake](https://github.com/riched158/UdacityDataEngineering/tree/master/datalakes/project4)
 
 Build an ETL pipeline for a data lake. The data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in the app. Load data from S3, process the data into analytics tables using Spark, and load them back into S3. Deploy this Spark process on a cluster using AWS.
 
